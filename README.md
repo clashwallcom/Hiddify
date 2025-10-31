@@ -1,2 +1,1 @@
-# Hiddify
-Hiddify 科学上网资源下载
+# Hiddify 科学上网资源下载
