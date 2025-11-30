@@ -1,6 +1,9 @@
 # Hiddify 科学上网资源下载
 
+<div align="center">
+  <img width="150" height="150" alt="Hiddify" src="https://github.com/user-attachments/assets/987103a5-9628-4473-ad81-21c5e3a30a69" />
 
+</div>
 
 ## :memo: Hiddify 节点资源
 
